@@ -1,0 +1,11 @@
+File,Function,LOC,SLOC-P,SLOC-L,MVG,BLOC,C&SLOC,CLOC,CWORD
+E:\Volkov\V3\V3\Volkov3\FindAtFile.cpp,FindAtFile::menu(),13,13,8,0,0,0,0,0,
+E:\Volkov\V3\V3\Volkov3\FindAtFile.cpp,FindAtFile::ShowData(cpu_struct buf),5,5,5,0,0,0,0,0,
+E:\Volkov\V3\V3\Volkov3\FindAtFile.cpp,FindAtFile::FindAndShow(cpu_struct buf),108,101,69,21,6,0,1,1,
+E:\Volkov\V3\V3\Volkov3\GetList.cpp,GetList::GetList(),1,1,1,0,0,0,0,0,
+E:\Volkov\V3\V3\Volkov3\GetList.cpp,GetList::Reading(cpu_struct buf),21,18,16,2,2,0,1,4,
+E:\Volkov\V3\V3\Volkov3\GetList.cpp,GetList::~GetList(),1,1,1,0,0,0,0,0,
+E:\Volkov\V3\V3\Volkov3\main.cpp,main(),45,33,24,6,8,1,4,28,
+E:\Volkov\V3\V3\Volkov3\NewRecord.cpp,NewRecord::NewRecord(),1,1,1,0,0,0,0,0,
+E:\Volkov\V3\V3\Volkov3\NewRecord.cpp,NewRecord::Add(cpu_struct buf),14,11,11,0,3,0,0,0,
+E:\Volkov\V3\V3\Volkov3\NewRecord.cpp,NewRecord::~NewRecord(),1,1,1,0,0,0,0,0,

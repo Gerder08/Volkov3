@@ -1,0 +1,9 @@
+File,LOC,SLOC-P,SLOC-L,MVG,BLOC,C&SLOC,CLOC,CWORD,HCLOC,HCWORD
+E:\Volkov\V3\V3\Volkov3\FindAtFile.cpp,139,126,83,21,12,0,1,1,0,0
+E:\Volkov\V3\V3\Volkov3\GetList.cpp,32,25,19,2,6,0,1,4,0,0
+E:\Volkov\V3\V3\Volkov3\main.cpp,65,49,25,6,12,1,4,28,0,0
+E:\Volkov\V3\V3\Volkov3\NewRecord.cpp,25,18,14,0,7,0,0,0,0,0
+E:\Volkov\V3\V3\Volkov3\cpu_struct.h,7,6,6,0,1,0,0,0,0,0
+E:\Volkov\V3\V3\Volkov3\FindAtFile.h,19,16,8,0,2,0,1,12,0,0
+E:\Volkov\V3\V3\Volkov3\GetList.h,20,14,6,0,3,0,3,30,1,16
+E:\Volkov\V3\V3\Volkov3\NewRecord.h,23,14,6,0,2,0,7,21,0,0

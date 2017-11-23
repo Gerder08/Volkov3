@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1509557854 source:e:\volkov\v3\v3\volkov3\cpu_struct.cpp
+
+1510507203 source:e:\volkov\v3\v3\volkov3\getlist.cpp
+	<iostream>
+	"GetList.h"
+	"cpu_struct.h"
+
+1510507203 e:\volkov\v3\v3\volkov3\getlist.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1509784083 e:\volkov\v3\v3\volkov3\cpu_struct.h
+
+1510527584 source:e:\volkov\v3\v3\volkov3\main.cpp
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+	<locale.h>
+	<fstream>
+	<cstring>
+	"GetList.h"
+	"cpu_struct.h"
+	"NewRecord.h"
+	"FindAtFile.h"
+
+1510514276 source:e:\volkov\v3\v3\volkov3\newproc.cpp
+	<iostream>
+	"NewProc.h"
+	"cpu_struct.h"
+
+1510514189 e:\volkov\v3\v3\volkov3\newproc.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1510514700 e:\volkov\v3\v3\volkov3\newrecord.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1510514633 source:e:\volkov\v3\v3\volkov3\newrecord.cpp
+	<iostream>
+	"NewRecord.h"
+	"cpu_struct.h"
+
+1510528529 source:e:\volkov\v3\v3\volkov3\findatfile.cpp
+	<iostream>
+	"FindAtFile.h"
+	"cpu_struct.h"
+
+1510528529 e:\volkov\v3\v3\volkov3\findatfile.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1510677305 source:f:\volkov\v3\v3\volkov3\findatfile.cpp
+	<iostream>
+	"FindAtFile.h"
+	"cpu_struct.h"
+
+1510528529 f:\volkov\v3\v3\volkov3\findatfile.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1509784083 f:\volkov\v3\v3\volkov3\cpu_struct.h
+
+1510677305 source:f:\volkov\v3\v3\volkov3\getlist.cpp
+	<iostream>
+	"GetList.h"
+	"cpu_struct.h"
+
+1510507203 f:\volkov\v3\v3\volkov3\getlist.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1510527584 source:f:\volkov\v3\v3\volkov3\main.cpp
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+	<locale.h>
+	<fstream>
+	<cstring>
+	"GetList.h"
+	"cpu_struct.h"
+	"NewRecord.h"
+	"FindAtFile.h"
+
+1510514700 f:\volkov\v3\v3\volkov3\newrecord.h
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	<cstring>
+
+1510514633 source:f:\volkov\v3\v3\volkov3\newrecord.cpp
+	<iostream>
+	"NewRecord.h"
+	"cpu_struct.h"
+
